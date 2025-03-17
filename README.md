@@ -47,6 +47,20 @@ Total cost to me: AUD$92 (instead of $250)
 
 This beats paying $700 + $350 = $1050 retail.
 
+## Pre-assembly
+
+I had to clean the BBQ first. This was achieved using a wire brush attachment for an electric drill, similar to [this one](https://www.bunnings.com.au/josco-100mm-wheel-wire-brush_p6318427).
+
+![image](wire-brush.webp)
+
+The process was basically to ensure there was no rust or gunk attached to the two halves of the grill.
+
+In some areas, the external enamel had been damaged and removed and the grill had rusted. The rust was removed.
+
+When the cleaning was finished (both sides of each half of the grill) then it was hosed down with a high pressure hose nozzle to remove dust.
+
+Finally the exposed metal was treated with canola oil for seasoning to help prevent further rust. 
+
 ## Result
 
 ... to be photographed
