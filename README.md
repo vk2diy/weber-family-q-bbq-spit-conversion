@@ -30,19 +30,22 @@ So that takes care of the base skewer, the rigid supports, and the raising and l
 
 The next thing required is a motor and a power source.
 
-I had [one of these motors]() lying around and a [variable speed switch]().
+I had [one of these motors](https://www.amazon.com.au/dp/B0B21YW465) (AUD$27 = USD$17) lying around and a [variable speed DC PWM controller switch](https://www.aliexpress.com/w/wholesale-dc-pwm.html) (AUD$12 = USD$8).
 
-Furthermore, I have some [Makita-compatible batteries]() and a [Makita battery mounting kit]().
+Furthermore, I have some Makita-compatible batteries and a [Makita battery mounting kit](https://www.ebay.com.au/itm/404556074659) (AUD$15 = USD$9.50).
 
 ## Bill of materials (BOM)
 
- * 1 x motor (I used []())
- * 1 x power source (I used []() and []())
- * 1 x spit (I used []())
- * 1 x height adjustment mounting system (I used []())
- * 1 x motion coupler (I used []())
+ * 1 x motor (I used [this one which came with a mounting L-bracket](https://www.amazon.com.au/dp/B0B21YW465)) (AUD$27 = USD$17)
+ * 1 x DC PWM controller (I used one I had lying around) (AUD$15 = USD$9.50)
+ * 1 x power source (I used Makita-compatible batteries and a [Makita battery mounting kit](https://www.ebay.com.au/itm/404556074659) (AUD$15 = USD$9.50)
+ * 1 x spit (I used part of [this BBQ kit](https://www.amazon.com.au/gp/product/B0CH1PTP2G)) (AUD$50 = $31.67)
+ * 1 x height adjustment mounting system (I used part of [this BBQ kit](https://www.amazon.com.au/gp/product/B0CH1PTP2G)) (same unit as above - no cost)
+ * 1 x motion coupler (I used one I had laying around, [something like the 10mm to 8mm here](https://www.amazon.com.au/uxcell-Coupling-25mmx40mm-Coupler-Aluminum/dp/B09BZ915X5)) ($5 nominal)
 
-Total cost: $50 (instead of $250)
+Total cost to me: AUD$92 (instead of $250)
+
+This beats paying $700 + $350 = $1050 retail.
 
 ## Result
 
